@@ -1,0 +1,6 @@
+{
+  "name": "Simulador POS Farmacia",
+  "description": "Simulador educativo de caja registradora y sistema POS farmacéutico estilo 'Papers, Please' para el entrenamiento de cajeros y administradores de farmacia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
